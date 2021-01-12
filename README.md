@@ -3,7 +3,7 @@ This is a simple batch script that uses image magick to process images for usage
   
 Current steps  
   
-*Download and install Image magick  
+*Download and install Image magick - https://imagemagick.org/script/download.php  
 *Change the path to the path that your images are stored  
 *Run the script    
 *All the processed photos are now in the processed folder  
